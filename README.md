@@ -2,6 +2,7 @@
 .NET-Backend-Developer-Roadmap for 2024
 
 這是個人針對.NET backend 開發人員的 roadmap，今年LLM整合應用我滿看好。
+[PDF下載](./NETbackendRoadmap2024.pdf)
 
 ## 💯Rico技術學院線上課程
 [完整線上課程清單](https://ricochen-s-school.teachable.com/p/myudemy)
